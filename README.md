@@ -1,0 +1,1 @@
+# fastFetch-config
