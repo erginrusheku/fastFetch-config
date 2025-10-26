@@ -11,3 +11,6 @@ Here, you can add your logo with Fastfetch fastfetch --logo /home/username/Pictu
 
 My customization!
 <img width="848" height="635" alt="image" src="https://github.com/user-attachments/assets/51055ae3-fccf-456f-9cfc-824a9df179be" />
+
+bonus!
+about the fonts -> Download here www.nerdfonts.com  and install it!
