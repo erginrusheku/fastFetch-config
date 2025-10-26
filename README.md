@@ -13,6 +13,7 @@ bonus!
 about the fonts -> Download here www.nerdfonts.com  and install it!
 
 My customization!
-<img width="848" height="635" alt="image" src="https://github.com/user-attachments/assets/51055ae3-fccf-456f-9cfc-824a9df179be" />
+<img width="855" height="640" alt="image" src="https://github.com/user-attachments/assets/3af8cb29-9c19-4e8c-ad92-c03277d46690" />
+
 
 
