@@ -3,7 +3,7 @@
 
 copy all the code and edit if you wish :)]
 
-nano /home/ergin/.config/fastfetch/config.jsonc -> To edit Fastfetch’s configuration, open the terminal and run,but you can find the file and edit more easily!
+nano /home/ergin/.config/fastfetch/config.jsonc -> (depends your direction) To edit Fastfetch’s configuration, open the terminal and run,but you can find the file and edit more easily!
 
 After that, open your terminal to edit the .bashrc file nano ~/.bashrc
 
