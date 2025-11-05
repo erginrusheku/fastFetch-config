@@ -7,7 +7,7 @@ nano /home/username/.config/fastfetch/config.jsonc -> (depends what is your dire
 
 After that, open your terminal to edit the .bashrc file nano ~/.bashrc
 
-Here, you can add your logo with Fastfetch fastfetch --logo /home/username/Pictures/your_picture.png ->(depends what is your direction) PS1='~ ' -> is your choice!
+Here, you can add your logo with Fastfetch -> fastfetch --logo /home/username/Pictures/your_picture.png ->(depends what is your direction) PS1='~ ' -> is your choice!
 
 
 if u want to create a logo file for pictures or ASCII art -> .local/share/fastfecth/logos/yourPicture.png (to keep update ur Fastfetch with ur logo in terminal)!
